@@ -2,8 +2,8 @@
 
 CS student · Linux & FOSS enthusiast
 
-**Stack:** C · C++ · Python · Bash · Lua  
-**Tools:** Neovim · Git · Docker · CMake · PostgreSQL · SQLite
+[![Stack](https://skillicons.dev/icons?i=c,cpp,python,bash,lua)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=linux,neovim,git,docker,cmake,postgres,sqlite)](https://skillicons.dev)
 
 [LinkedIn](https://linkedin.com/in/rid1fz) · [Twitter](https://twitter.com/rid1fz) · [rid1.fz.06@gmail.com](mailto:rid1.fz.06@gmail.com)
 
