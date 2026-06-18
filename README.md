@@ -19,6 +19,4 @@
 
 <p><img align="left" src="https://github-readme-stats.shion.dev/api?username=Rid1FZ&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true" alt="rid1fz" /></p>
 
-<p>&nbsp;<img align="center" src="https://streak-stats.demolab.com/?user=Rid1FZ&theme=catppuccin_mocha&hide_border=false" alt="rid1fz" /></p>
-
 <p><img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rid1FZ&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="rid1fz" /></p>
