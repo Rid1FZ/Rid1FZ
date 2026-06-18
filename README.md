@@ -11,7 +11,7 @@ CS student · Linux & FOSS enthusiast
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Rid1FZ&show_icons=true&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Rid1FZ&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rid1FZ&layout=compact&theme=catppuccin_mocha&hide_border=true)
 
 </div>
